@@ -1,0 +1,23 @@
+{
+  "name": "guard",
+  "version": "0.0.1",
+  "description": "Guard",
+  "main": "lywacer.js",
+  "scripts": {
+    "start": "node lywacer.js"
+  },
+  "author": "lywacer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.29.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^6.2.3"
+  },
+  "keywords": [],
+  
+  "engines": {
+  "node": "12.x"
+    
+}
+}

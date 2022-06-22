@@ -1,0 +1,18 @@
+﻿{
+
+    "Bot": {
+        "token": "",
+        "owner": "340047062068494337",
+        "server": "893226714040254494",
+        "activity": "❤️‍🩹"
+    },
+
+    "Guard": {
+        "safezone": ["rica ediyorum idlerin hepsini elle girin"],
+        "safebots": ["botta 2 adet config var üşeniyorsanız kullanmayın amk"],
+        "jail": "941774633991041047",
+        "booster": "894608814559612989",
+        "log": "941774751569944636"
+    }
+    
+}

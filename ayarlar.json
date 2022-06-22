@@ -1,0 +1,12 @@
+{
+"botOwner":"340047062068494337",
+"botPrefix":".",
+"botToken":"",
+"guildID":"893226714040254494",
+"botVoiceChannelID":"",
+"logChannelID":"941774751569944636",
+"roleGuard":true,
+"whitelist":[""],
+"boosterRole":"894608814559612989",
+"jailRole":"941774633991041047"
+}
